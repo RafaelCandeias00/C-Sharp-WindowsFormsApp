@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp (WindowsFormsApp)\MedalhasOlimpiadas\MedalhasOlimpiadas\bin\Debug\MedalhasOlimpiadas.exe.config
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp (WindowsFormsApp)\MedalhasOlimpiadas\MedalhasOlimpiadas\bin\Debug\MedalhasOlimpiadas.exe
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp (WindowsFormsApp)\MedalhasOlimpiadas\MedalhasOlimpiadas\bin\Debug\MedalhasOlimpiadas.pdb
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp (WindowsFormsApp)\MedalhasOlimpiadas\MedalhasOlimpiadas\obj\Debug\MedalhasOlimpiadas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp (WindowsFormsApp)\MedalhasOlimpiadas\MedalhasOlimpiadas\obj\Debug\MedalhasOlimpiadas.Form1.resources
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp (WindowsFormsApp)\MedalhasOlimpiadas\MedalhasOlimpiadas\obj\Debug\MedalhasOlimpiadas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp (WindowsFormsApp)\MedalhasOlimpiadas\MedalhasOlimpiadas\obj\Debug\MedalhasOlimpiadas.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp (WindowsFormsApp)\MedalhasOlimpiadas\MedalhasOlimpiadas\obj\Debug\MedalhasOlimpiadas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp (WindowsFormsApp)\MedalhasOlimpiadas\MedalhasOlimpiadas\obj\Debug\MedalhasOlimpiadas.exe
+C:\Users\Usuario\Desktop\Desenvolvimento\GitHub\C-Sharp (WindowsFormsApp)\MedalhasOlimpiadas\MedalhasOlimpiadas\obj\Debug\MedalhasOlimpiadas.pdb
